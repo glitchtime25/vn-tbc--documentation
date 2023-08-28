@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['najentusactions_72049',['NajentusActions',['../boss__warlord__najentus_8cpp.html#a7fdca2c01cd81c0517a6aabd242b8bad',1,'boss_warlord_najentus.cpp']]],
+  ['nalorakkactions_72050',['NalorakkActions',['../boss__nalorakk_8cpp.html#ac82e21661ae4cfe12c53b123c1adc3a3',1,'boss_nalorakk.cpp']]],
+  ['navarea_72051',['NavArea',['../MoveMapSharedDefines_8h.html#a2fb297540471eca73a5755d904155b5c',1,'MoveMapSharedDefines.h']]],
+  ['navterrainflag_72052',['NavTerrainFlag',['../MoveMapSharedDefines_8h.html#a1c7bf519d4de26352ba4473d716133b8',1,'MoveMapSharedDefines.h']]],
+  ['nazanactions_72053',['NazanActions',['../boss__nazan__and__vazruden_8cpp.html#a5a748d32ee83dc1f118007fbb22379d2',1,'boss_nazan_and_vazruden.cpp']]],
+  ['nefarianactions_72054',['NefarianActions',['../boss__nefarian_8cpp.html#ad510b50011a19e021b948f9ec1f11fa0',1,'boss_nefarian.cpp']]],
+  ['nethekurseactions_72055',['NethekurseActions',['../boss__nethekurse_8cpp.html#aa4c5e6519c80df31d912b7feb62a3e18',1,'boss_nethekurse.cpp']]],
+  ['netherspiteactions_72056',['NetherspiteActions',['../boss__netherspite_8cpp.html#a54cbae2ae39a5da5a037a83b95448dc5',1,'boss_netherspite.cpp']]],
+  ['netherspitephases_72057',['NetherspitePhases',['../boss__netherspite_8cpp.html#a6a9d5470f9bc7334b3228a16eee0a82c',1,'boss_netherspite.cpp']]],
+  ['nightbaneactions_72058',['NightbaneActions',['../boss__nightbane_8cpp.html#ab40d233465a4e9bf9b25cd26aeb00ca1',1,'boss_nightbane.cpp']]],
+  ['normalizeflags_72059',['NormalizeFlags',['../Anticheat_8hpp.html#a621a2244a65bf3152dc78050d68d3e43',1,'Anticheat.hpp']]],
+  ['notableitems_72060',['NotableItems',['../PlayerbotAI_8h.html#a7cd26e5d77f5a63444a3b3b18b99313e',1,'PlayerbotAI.h']]],
+  ['nothactions_72061',['NothActions',['../boss__noth_8cpp.html#a16e2aa08f63a4e25e57fb2da1c2b6493',1,'boss_noth.cpp']]],
+  ['npc_5faoe_5fdamage_5ftrigger_72062',['npc_aoe_damage_trigger',['../npcs__special_8cpp.html#a84884f832f974fdd61e776dd829b9e10',1,'npcs_special.cpp']]],
+  ['npc_5fburster_5fworm_72063',['npc_burster_worm',['../npcs__special_8cpp.html#a6b5dfc77145cec376696bd1184cc9494',1,'npcs_special.cpp']]],
+  ['npcflags_72064',['NPCFlags',['../group__game.html#ga020b49642bdc8ff68e087e36cf07fb97',1,'Unit.h']]]
+];
